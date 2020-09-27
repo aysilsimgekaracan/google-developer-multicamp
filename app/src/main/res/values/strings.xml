@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleDeveloperMulticampCapstoneProject</string>
+    <string name="title">Google Developer Communities Turkey</string>
+    <string name="leader">Leader: %s</string>
+</resources>
