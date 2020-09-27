@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">GoogleDeveloperMulticampCapstoneProject</string>
-    <string name="title">" Google Geliştirici Toplulukları Türkiye"</string>
-    <string name="leader">"Lider: %s"</string>
-</resources>
