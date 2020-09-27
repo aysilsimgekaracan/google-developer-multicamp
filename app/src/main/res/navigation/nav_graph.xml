@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/communitiesFragment">
+    <fragment
+        android:id="@+id/communitiesFragment"
+        android:name="com.aysilsimgekaracan.googledevelopermulticampcapstoneproject.CommunitiesFragment"
+        android:label="CommunitiesFragment"
+        tools:layout="@layout/fragment_communities" >
+        <action
+            android:id="@+id/action_communitiesFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.aysilsimgekaracan.googledevelopermulticampcapstoneproject.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail" >
+        <argument
+            android:name="community"
+            app:argType="com.aysilsimgekaracan.googledevelopermulticampcapstoneproject.data.model.Communities$CommunitiesResponse" />
+    </fragment>
+</navigation>
