@@ -3,7 +3,9 @@ Developer Mutlicamp Android Course Final Project | Developer Multicamp Android E
 
 ## Requirements
 <img src="https://user-images.githubusercontent.com/43148881/94374219-5fe85480-0113-11eb-9655-77b16f3eaeb1.png">
-*End Point*: [End Point](https://5f6642a143662800168e7538.mockapi.io/multicamp/communities)
+<br/>
+
+**End Point:** [Link](https://5f6642a143662800168e7538.mockapi.io/multicamp/communities)
 
 ## Used Libraries
 
