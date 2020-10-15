@@ -24,7 +24,7 @@ Developer Mutlicamp Android Course Final Project | Developer Multicamp Android E
 </p>
 
 ## Certificate
-![giphy](https://user-images.githubusercontent.com/43148881/94374589-05042c80-0116-11eb-8552-010b942456b2.gif)
+![Certificate](https://user-images.githubusercontent.com/43148881/96116078-93d3c000-0ef0-11eb-9e3d-a7ef906bff4d.png)
 
 ## Developer Multicamp
 * On [Twitter](https://twitter.com/devmulticamp)
